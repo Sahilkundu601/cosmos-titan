@@ -31,7 +31,26 @@
   }
 
 }
+@media (max-width: 650px) {
+  .slider_section{
+    width: 100%;
+  }
+  .detail-box h1{
+    font-size: small;
+  }
+  .slider_bg_box img{
+     
+      max-width: 100%;
+      height: auto;
+    
+    
+  }
+  .arrival_bg_box img {
+    max-width: 10px;
+    height: auto;
+  }
 
+}
 @media (max-width: 767px) {
 
   .slider_bg_box img {
